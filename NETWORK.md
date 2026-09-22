@@ -1,16 +1,19 @@
-# 🌐 Zion App Network — Interlinks
+# prompt-shield — Zion App Network
 
-**prompt-shield** is part of the Zion Tech Group app network (630+ apps).
+Zion Prompt Shield — LLM security testing & prompt-injection defense.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+- Live app: https://ziontechgroup.com/prompt-shield/
+- Homepage: https://ziontechgroup.com
+- Network hub: https://zion-support.github.io/zion-network/
+- Master index: https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md
 
-## Related apps
-- [prompt-injection-playground](https://github.com/Zion-support/prompt-injection-playground) — learn LLM security safely
-- [zion-prompt-leak-scanner](https://github.com/Zion-support/zion-prompt-leak-scanner) — secrets/PII in prompts
-- [prompt-forge](https://github.com/Zion-support/prompt-forge) — prompt builder & scorer
-- [zion-mcp-security](https://github.com/Zion-support/zion-mcp-security) — MCP security checklist
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+## Related apps (Security & Compliance)
+- [prompt-injection-playground](https://ziontechgroup.com/prompt-injection-playground/) — learn LLM security with safe demos
+- [ai-phishing-simulator](https://ziontechgroup.com/ai-phishing-simulator/) — security awareness training
+- [zion-ai-secrets-sentinel](https://ziontechgroup.com/zion-ai-secrets-sentinel) — continuous secret scanning
+- [ai-compliance-auditor](https://ziontechgroup.com/ai-compliance-auditor/) — EU AI Act / ISO 42001 auditing
+- [quantum-safe-migrator](https://ziontechgroup.com/quantum-safe-migrator/) — post-quantum readiness
+- [zion-fraud-detection](https://fraud-detection.ziontechgroup.com) — real-time fraud detection
 
 ---
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+Part of the [Zion Tech Group apps network](https://zion-support.github.io/zion-network/) — 280+ interlinked AI, IT and FinOps tools.
